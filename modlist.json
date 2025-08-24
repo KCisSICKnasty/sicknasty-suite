@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The SICKnasty Suite",
+    "description": "Over 1.7k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
+    "author": "KCisSICKnasty",
+    "maintainers": [
+      "github/KCisSICKnasty"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/refs/heads/main/Word.webp",
+      "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/The%20SICKnasty%20Suite.wabbajack_a50574c7-041a-4293-92fe-978994307de7",
+      "machineURL": "TheSICKnastySuite",
+      "discordURL": "https://discord.gg/pca64xM2Cz"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "GjxsbTCJMUA=",
+      "Size": 883411205,
+      "NumberOfArchives": 1923,
+      "SizeOfArchives": 143081493419,
+      "NumberOfInstalledFiles": 108003,
+      "SizeOfInstalledFiles": 181277183943
+    },
+    "version": "1.0.0"
+  }
+]
+
