@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The SICKnasty Suite",
-    "description": "Over 1.9k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
+    "description": "Over 2k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
     "author": "KCisSICKnasty",
     "maintainers": [
       "github/KCisSICKnasty"
@@ -20,7 +20,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/main/Word.webp",
       "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The%20SICKnasty%20Suite.wabbajack_a50574c7-041a-4293-92fe-978994307de7",
+      "download": "https://authored-files.wabbajack.org/The%20SICKnasty%20Suite.wabbajack_a70723ad-9dfc-4fac-84fd-30ad0068cc17",
       "machineURL": "TheSICKnastySuite",
       "discordURL": "https://discord.gg/pca64xM2Cz"
     },
