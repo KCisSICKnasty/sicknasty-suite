@@ -1,39 +1,43 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The SICKnasty Suite",
-    "description": "Over 2k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
+    "description": "Over 2k handpicked \u0026 carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, \u0026 packed with content!",
     "author": "KCisSICKnasty",
     "maintainers": [
       "github/KCisSICKnasty"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/main/Word.webp",
       "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The%20SICKnasty%20Suite.wabbajack_a70723ad-9dfc-4fac-84fd-30ad0068cc17",
+      "download": "https://authored-files.wabbajack.org/The SICKnasty Suite.wabbajack_2bd98a95-9213-4d85-bf38-002793d60726",
       "machineURL": "TheSickNastySuite",
-      "discordURL": "https://discord.gg/pca64xM2Cz"
+      "discordURL": "https://discord.gg/pca64xM2Cz",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "GjxsbTCJMUA=",
-      "Size": 883411205,
-      "NumberOfArchives": 1923,
-      "SizeOfArchives": 143081493419,
-      "NumberOfInstalledFiles": 108003,
-      "SizeOfInstalledFiles": 181277183943
+      "Hash": "GF/K4ojCE80=",
+      "Size": 3263462733,
+      "NumberOfArchives": 2246,
+      "SizeOfArchives": 252032354509,
+      "NumberOfInstalledFiles": 209561,
+      "SizeOfInstalledFiles": 327356072550,
+      "TotalSize": 579388427059
     },
-    "version": "1.0.0"
+    "version": "1.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-09-29T22:44:37.408511Z",
+    "repositoryName": ""
   }
 ]
-
