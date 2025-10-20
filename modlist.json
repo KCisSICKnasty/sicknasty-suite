@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/main/Word.webp",
       "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The SICKnasty Suite.wabbajack_77aafaf1-ba54-4c87-9040-aebc1765ce70",
+      "download": "https://authored-files.wabbajack.org/The SICKnasty Suite.wabbajack_d4933eed-9c30-4aa0-8ba2-92954af4abb5",
       "machineURL": "TheSickNastySuite",
       "discordURL": "https://discord.gg/pca64xM2Cz",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "D1xCfva5lr0=",
-      "Size": 3082105122,
+      "Hash": "AApZP1pkHiI=",
+      "Size": 3105310351,
       "NumberOfArchives": 2233,
-      "SizeOfArchives": 217626457553,
-      "NumberOfInstalledFiles": 176396,
-      "SizeOfInstalledFiles": 288592746115,
-      "TotalSize": 506219203668
+      "SizeOfArchives": 217628072372,
+      "NumberOfInstalledFiles": 176613,
+      "SizeOfInstalledFiles": 288635646033,
+      "TotalSize": 506263718405
     },
     "version": "1.1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-20T15:16:46.3542309Z",
+    "dateUpdated": "2025-10-20T18:40:36.9039919Z",
     "repositoryName": ""
   }
 ]
