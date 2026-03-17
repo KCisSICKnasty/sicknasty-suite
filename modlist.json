@@ -25,7 +25,12 @@
       "machineURL": "TheSickNastySuite",
       "discordURL": "https://discord.gg/pca64xM2Cz",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "425350",
+        "slug": "vurpaq",
+        "domainName": "fallout4",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "YTn+TF2j7to=",
